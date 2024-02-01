@@ -2,6 +2,11 @@
 
 # dependencies
 /node_modules
+node_modules
+/package-lock.json
+package-lock.json
+/.gitignore
+
 /.pnp
 .pnp.js
 
